@@ -10,6 +10,8 @@ We used 5,000 balanced text samples from the Human ChatGPT Comparison Corpus (HC
 - Validation: 500 samples
 - Testing: 1,000 samples
 
+Dataset source: [Human ChatGPT Comparison Corpus (HC3)](https://huggingface.co/datasets/Hello-SimpleAI/HC3) — Guo et al. (2023). Our dataset is a cleaned and sampled subset of HC3.
+
 ## Results
 
 | Model | Test Accuracy |
